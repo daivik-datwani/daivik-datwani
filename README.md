@@ -11,7 +11,7 @@ in the real world.
 ## 🏆 Highlights
 
 | | |
-|---|---|---|
+|---|---|
 | 🥇 | **FIRST Global Challenge 2025** (Robotics): Gold Medal, Team UAE · Lead Builder & Driver : Team Cerberus (UAE National Champions) |
 | 🎤 | **WFES 2026** : Launched 'SusSTEM' at World Future Energy Summit 2026 in Abu Dhabi, Speaker & Honourable Mention at AI Energy Hackathon 2026 |
 | 🌍 | **Founder @ [SusSTEM](https://github.com/SusSTEM)** : Inspiring the next generation of sustainable innovators through STEM. |
