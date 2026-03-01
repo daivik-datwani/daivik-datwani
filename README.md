@@ -13,7 +13,7 @@ in the real world.
 | | |
 |---|---|
 | 🥇 | **FIRST Global Challenge 2025** (Robotics): Gold Medal, Team UAE · Lead Builder & Driver : Team Cerberus (UAE National Champions) |
-| 🎤 | **WFES 2026** : World Future Energy summit Exhibitor, Speaker & Honourable Mention at AI Energy Hackathon 2026 |
+| 🎤 | **WFES 2026** : Launched 'SusSTEM' at World Future Energy Summit 2026 in Abudhabi, Speaker & Honourable Mention at AI Energy Hackathon 2026 |
 | 🌍 | **Founder @ [SusSTEM](https://github.com/SusSTEM)** : Inspiring the next generation of sustainable innovators through STEM. |
 | 🏗️ | **Co-founder @ [SilverMile](https://github.com/SilverMile)** : Social impact tech for UAE's citizens |
 
