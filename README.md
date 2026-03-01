@@ -2,9 +2,9 @@
 
 **Year 10 · Dubai College · Dubai, UAE 🇦🇪**
 
-I build real products at the intersection of **AI**, **Robotics**, and **Social Impact** —
-then ship them live. Currently focused on using technology to solve problems that matter
-in the UAE and beyond.
+I'm building at the intersection of **AI**, **Robotics**, and **Social Impact**. 
+Currently focused on empowering youth in STEM and incorporating technology to solve problems that matter
+in the real world.
 
 ---
 
@@ -12,10 +12,10 @@ in the UAE and beyond.
 
 | | |
 |---|---|
-| 🥇 | **FIRST Global Challenge 2025** : Gold Medal, Team UAE · Lead Builder & Driver : Team Cerberus (National Champions) |
-| 🎤 | **WFES 2026** : Speaker & Honourable Mention, AI Energy Hackathon |
+| 🥇 | **FIRST Global Challenge 2025** (Robotics): Gold Medal, Team UAE · Lead Builder & Driver : Team Cerberus (UAE National Champions) |
+| 🎤 | **WFES 2026** : World Future Energy summit Exhibitor, Speaker & Honourable Mention at AI Energy Hackathon 2026 |
 | 🌍 | **Founder @ [SusSTEM](https://github.com/SusSTEM)** : Inspiring the next generation of sustainable innovators through STEM. |
-| 🏗️ | **Co-founder @ [SilverMile](https://github.com/SilverMile)** : Social impact tech for Dubai's citizens |
+| 🏗️ | **Co-founder @ [SilverMile](https://github.com/SilverMile)** : Social impact tech for UAE's citizens |
 
 ---
 
