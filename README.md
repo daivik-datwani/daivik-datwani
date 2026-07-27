@@ -4,7 +4,7 @@
 
 I'm building at the intersection of **AI**, **Robotics**, and **Social Impact**. 
 Currently focused on empowering youth in STEM and incorporating technology to solve problems that matter
-in the real world.
+in the real world. Travelled to 21 countries and counting...
 
 ---
 
